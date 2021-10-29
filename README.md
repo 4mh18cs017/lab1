@@ -1,1 +1,1 @@
-# lab1
+# find S algorithm
